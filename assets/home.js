@@ -1,8 +1,8 @@
-var overlay=document.getElementById("overlay")
+// var overlay=document.getElementById("overlay")
 
-window.addEventListener('load', function(){
-	overlay.style.display='none';
-})
+// window.addEventListener('load', function(){
+// 	overlay.style.display='none';
+// })
 
 var words = document.getElementsByClassName('word');
 var wordArray = [];
