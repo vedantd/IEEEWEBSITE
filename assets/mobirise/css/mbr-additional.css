@@ -4193,30 +4193,6 @@ body {
 .cid-qxnUFuyMxU foot-menu-item {
   text-align: right;
 }
-.cid-qBgr7JbSRb {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background: #ffffff;
-}
-.cid-qBgr7JbSRb .image-block {
-  margin: auto;
-}
-.cid-qBgr7JbSRb .mbr-figure {
-  margin: 0 auto;
-}
-.cid-qBgr7JbSRb figcaption {
-  position: relative;
-}
-.cid-qBgr7JbSRb figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qBgr7JbSRb .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qBgrwHVxnY {
   background-image: url("../../../assets/images/irisbg-1619x700.jpg");
 }
