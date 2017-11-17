@@ -4196,6 +4196,30 @@ body {
 .cid-qBgrwHVxnY {
   background-image: url("../../../assets/images/irisbg-1619x700.jpg");
 }
+.cid-qBgtQM6BVX {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qBgtQM6BVX .image-block {
+  margin: auto;
+}
+.cid-qBgtQM6BVX .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qBgtQM6BVX figcaption {
+  position: relative;
+}
+.cid-qBgtQM6BVX figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qBgtQM6BVX .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qBgkfUmlhb {
   padding-top: 30px;
   padding-bottom: 0px;
