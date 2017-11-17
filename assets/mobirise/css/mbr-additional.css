@@ -4193,13 +4193,32 @@ body {
 .cid-qxnUFuyMxU foot-menu-item {
   text-align: right;
 }
-.cid-qBgem5iFJ9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/sean-brown-2380-2000x1030.jpg");
+.cid-qBgr7JbSRb {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background: #ffffff;
 }
-.cid-qBgem5iFJ9 .mbr-figure {
+.cid-qBgr7JbSRb .image-block {
+  margin: auto;
+}
+.cid-qBgr7JbSRb .mbr-figure {
   margin: 0 auto;
+}
+.cid-qBgr7JbSRb figcaption {
+  position: relative;
+}
+.cid-qBgr7JbSRb figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qBgr7JbSRb .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qBgrwHVxnY {
+  background-image: url("../../../assets/images/irisbg-1619x700.jpg");
 }
 .cid-qBgkfUmlhb {
   padding-top: 30px;
