@@ -35,7 +35,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/ieee-128x128-1.png",
     "noImageResize": "",
     "versionFirst": "4.3.2",
-    "uniqCompNum": 86,
+    "uniqCompNum": 95,
     "versionPublish": "4.3.5"
   },
   "pages": {
@@ -43,7 +43,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "GALLERY",
-        "order": 7
+        "order": 5
       },
       "components": [
         {
@@ -861,7 +861,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "VOYAGER",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -1360,7 +1360,7 @@
       "settings": {
         "meta_descr": "Events in 2016-17",
         "title": "2016-17 EVENTS",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1902,7 +1902,7 @@
       "settings": {
         "meta_descr": "IRIS-IEEE VIT's Flagship event",
         "title": "IRIS",
-        "order": 5
+        "order": 3
       },
       "components": [
         {
@@ -2520,7 +2520,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 9
+        "order": 7
       },
       "components": [
         {
@@ -3059,7 +3059,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "ABOUT US",
-        "order": 8
+        "order": 6
       },
       "components": [
         {
