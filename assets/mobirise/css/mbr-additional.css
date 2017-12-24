@@ -4662,9 +4662,13 @@ body {
 }
 .cid-qEKTfMzVOc .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-qEKTfMzVOc H2 {
-  text-align: center;
+  text-align: left;
+}
+.cid-qEKTfMzVOc .mbr-section-subtitle DIV {
+  text-align: left;
 }
 .cid-qxtjPnYoS0 .navbar {
   padding: .5rem 0;
