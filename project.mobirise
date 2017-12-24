@@ -3819,8 +3819,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home-IEEE Vidyalankar Institute Of Technology",
-        "meta_descr": "Home page of IEEE Vidyalankar Institute Of Technology Student Chapter.",
+        "title": "Home-IEEE Vidyalankar Institute Of Technology.",
+        "meta_descr": "Website of IEEE Vidyalankar Institute Of Technology Student Chapter.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
