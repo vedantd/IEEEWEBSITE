@@ -1762,28 +1762,54 @@ body {
     width: 100% !important;
   }
 }
-.cid-qGEndCvMke {
+.cid-qGH4Km2sQE {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-color: #55b4d4;
 }
-.cid-qGEndCvMke .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qGEndCvMke H2 {
-  text-align: center;
-}
-.cid-qGEmnwzRBe {
+.cid-qGH2E9clpc {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-image: url("../../../2assets/images/ocean-water-rays-depth-51902-1920x1080-1920x1080.jpg");
+  position: relative;
 }
-.cid-qGEmnwzRBe .mbr-text,
-.cid-qGEmnwzRBe blockquote {
+.cid-qGH2E9clpc .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qGH2E9clpc .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qGH2E9clpc .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qGH2E9clpc .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qGH2E9clpc .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qGH2E9clpc .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qGH2E9clpc .card .panel-body {
   color: #767676;
 }
-.cid-qGEmnwzRBe P {
-  color: #232323;
+.cid-qGH2E9clpc H4 {
+  color: #ffffff;
+}
+.cid-qGH2E9clpc .panel-text {
+  color: #ffffff;
 }
 .cid-qGEo31CtPs {
   padding-top: 60px;
@@ -1796,10 +1822,15 @@ body {
 .cid-qGEo31CtPs H2 {
   color: #ffffff;
 }
+.cid-qGH5mrgV5g {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
 .cid-qGEnENIlsk {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/balloons-neon-light-bright-shadow-68599-1920x1080-1920x1080.jpg");
+  background-image: url("../../../2assets/images/balloons-neon-light-bright-shadow-68600-1920x1080.jpg");
   position: relative;
 }
 .cid-qGEnENIlsk .card {
@@ -1843,6 +1874,9 @@ body {
 .cid-qGEnENIlsk .panel-text {
   color: #ffffff;
 }
+.cid-qGEnENIlsk P {
+  color: #ffffff;
+}
 .cid-qGEsG9Wbbj {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1851,7 +1885,7 @@ body {
 .cid-qGEsXSj0w8 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/code-coding-binary-code-abstract-patterns-112140-1920x1080-1920x1080.jpg");
+  background-image: url("../../../2assets/images/code-coding-binary-code-abstract-patterns-112140-1920x1080.jpg");
 }
 .cid-qGEsXSj0w8 .card-box {
   padding: 0 2rem;
