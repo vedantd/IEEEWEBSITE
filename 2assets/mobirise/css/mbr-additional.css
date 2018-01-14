@@ -1363,6 +1363,9 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qGHpycZKnx {
+  background-image: url("../../../2assets/images/light-abstract-dark-space-88100-1920x1080-1920x1080.jpg");
+}
 .cid-qGElbBTj1N .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1739,38 +1742,10 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qGEm8pvyC2 {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #55b4d4;
-}
-.cid-qGEm8pvyC2 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qGEm8pvyC2 .section-text {
-  padding: 2rem 0;
-}
-.cid-qGEm8pvyC2 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qGEm8pvyC2 .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qGH4Km2sQE {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #55b4d4;
-}
 .cid-qGH2E9clpc {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../2assets/images/ocean-water-rays-depth-51902-1920x1080-1920x1080.jpg");
+  background-image: url("../../../2assets/images/light-abstract-dark-space-88100-1920x1080-1920x1080.jpg");
   position: relative;
 }
 .cid-qGH2E9clpc .card {
