@@ -1363,6 +1363,36 @@ body {
   height: auto;
   min-height: 100vh;
 }
+.cid-qHikeSrxXZ {
+  background-image: url("../../../2assets/images/veil-background-dark-92172-1920x1080-1920x1080.jpg");
+}
+.cid-qHikeSrxXZ .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qHikeSrxXZ .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qHikeSrxXZ .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qHikeSrxXZ .mbr-text {
+  color: #ffffff;
+}
+.cid-qHikeSrxXZ .card {
+  padding-bottom: 1.5rem;
+}
+.cid-qHikeSrxXZ .mbr-text,
+.cid-qHikeSrxXZ .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-qGHpycZKnx {
   background-image: url("../../../2assets/images/light-abstract-dark-space-88100-1920x1080-1920x1080.jpg");
 }
@@ -1796,11 +1826,6 @@ body {
 }
 .cid-qGEo31CtPs H2 {
   color: #ffffff;
-}
-.cid-qGH5mrgV5g {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #232323;
 }
 .cid-qGEnENIlsk {
   padding-top: 60px;
